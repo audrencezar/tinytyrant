@@ -1,0 +1,14 @@
+ tinytyrant
+============
+
+Minimal tokyotyrant client for table databases, using luasocket 
+and struct.
+
+It's basically a fork of lua-tokyotyrant, that it is the complete 
+tokyotyrant client. Please, see
+[http://github.com/phoenixsol/lua-tokyotyrant/]
+
+The main diference is that lua-tokyotyrant uses nixio lib for socket 
+and bit operations.
+
+[http://github.com/audrencezar/tinytyrant]
